@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a python dev currently working on Labcodes.
+I'm a python/js dev currently working on Labcodes.
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarcusAldrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusaldrey/)](https://www.linkedin.com/in/marcusaldrey/)
 
