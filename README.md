@@ -1,8 +1,6 @@
 ### Hi 👋
 
 I'm a python/js dev & computer engineering student.
-I’m currently learning new backend technologies.
-
 Django lover.
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarcusAldrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusaldrey/)](https://www.linkedin.com/in/marcusaldrey/)
